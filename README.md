@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wholecuppatea
 - 👀 I’m interested in Front-End Development, Books, Films and Cows.
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me @wholecuppatea on Mastodon. 
+- 📫 How to reach me: @wholecuppatea on Mastodon and Twitter
 
 <!---
 wholecuppatea/wholecuppatea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
